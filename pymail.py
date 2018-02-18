@@ -45,7 +45,7 @@ try:
 	email_conn3.login(username,password)
 	email_conn3.sendmail(from_email,to_list,"testing python exception handling")
 except SMTPAuthenticationError:
-	print("Could not login")
+	print("Could Not login")
 except:
 	print("An Error Occurred")
 

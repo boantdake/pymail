@@ -50,6 +50,7 @@ DD
                     total=amount
                 )
                 user_email = detail.get("email")
+                #checks for email if theres no email then the person is skipped.
                 if user_email:
                     user_data = {
                         "email": user_email,

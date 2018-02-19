@@ -1,0 +1,7 @@
+Greetings {name}! 
+
+Thanks for contacting me on {date}. 
+I am really happy that you decided to choose us! As a reminder your total of ${total}
+is the current amount on your tab. We will begin work as soon as the balance is paid.
+
+DD
